@@ -1,0 +1,11 @@
+id,symbol,name,image,max_supply,fully_diluted_valuation,ath,ath_date,atl,atl_date
+binancecoin,bnb,BNB,https://coin-images.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970,200000000.0,96094178916.0,788.84,2024-12-04,0.04,2017-10-19
+bitcoin,btc,Bitcoin,https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400,21000000.0,2071620180246.0,111814.0,2025-05-22,67.81,2013-07-06
+cardano,ada,Cardano,https://coin-images.coingecko.com/coins/images/975/large/cardano.png?1696502090,45000000000.0,31145179860.0,3.09,2021-09-02,0.02,2020-03-13
+dogecoin,doge,Dogecoin,https://coin-images.coingecko.com/coins/images/5/large/dogecoin.png?1696501409,,29284613679.0,0.73,2021-05-08,0.0,2015-05-06
+ethereum,eth,Ethereum,https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628,,307609765218.0,4878.26,2021-11-10,0.43,2015-10-20
+litecoin,ltc,Litecoin,https://coin-images.coingecko.com/coins/images/2/large/litecoin.png?1696501400,84000000.0,6633043126.0,410.26,2021-05-10,1.15,2015-01-14
+polkadot,dot,Polkadot,https://coin-images.coingecko.com/coins/images/12171/large/polkadot.png?1696512008,,6241895543.0,54.98,2021-11-04,2.7,2020-08-20
+ripple,xrp,XRP,https://coin-images.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1696501442,100000000000.0,216082809308.0,3.4,2018-01-07,0.0,2014-05-22
+solana,sol,Solana,https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756,,95347853796.0,293.31,2025-01-19,0.5,2020-05-11
+tron,trx,TRON,https://coin-images.coingecko.com/coins/images/1094/large/tron-logo.png?1696502193,,25500685325.0,0.43,2024-12-04,0.0,2017-11-12
