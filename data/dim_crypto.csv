@@ -1,0 +1,11 @@
+id,symbol,name,image,max_supply,fully_diluted_valuation,ath,ath_date,atl,atl_date,circulation_ratio
+binancecoin,bnb,BNB,https://coin-images.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970,200000000.0,96219209355.0,788.84,2024-12-04 10:35:25.220000+00:00,0.04,2017-10-19 00:00:00+00:00,0.72943787895
+bitcoin,btc,Bitcoin,https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400,21000000.0,2072910007888.0,111814.0,2025-05-22 18:41:28.492000+00:00,67.81,2013-07-06 00:00:00+00:00,0.9463584761904762
+cardano,ada,Cardano,https://coin-images.coingecko.com/coins/images/975/large/cardano.png?1696502090,45000000000.0,30278984149.0,3.09,2021-09-02 06:00:10.474000+00:00,0.02,2020-03-13 02:22:55.044000+00:00,0.8017740165451859
+dogecoin,doge,Dogecoin,https://coin-images.coingecko.com/coins/images/5/large/dogecoin.png?1696501409,,28475047995.0,0.73,2021-05-08 05:08:23.458000+00:00,0.0,2015-05-06 00:00:00+00:00,
+ethereum,eth,Ethereum,https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628,,305832610071.0,4878.26,2021-11-10 14:24:19.604000+00:00,0.43,2015-10-20 00:00:00+00:00,
+litecoin,ltc,Litecoin,https://coin-images.coingecko.com/coins/images/2/large/litecoin.png?1696501400,84000000.0,6710613912.0,410.26,2021-05-10 03:13:07.904000+00:00,1.15,2015-01-14 00:00:00+00:00,0.9038386396841828
+polkadot,dot,Polkadot,https://coin-images.coingecko.com/coins/images/12171/large/polkadot.png?1696512008,,6125803693.0,54.98,2021-11-04 14:10:09.301000+00:00,2.7,2020-08-20 05:48:11.359000+00:00,
+ripple,xrp,XRP,https://coin-images.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1696501442,100000000000.0,216229667818.0,3.4,2018-01-07 00:00:00+00:00,0.0,2014-05-22 00:00:00+00:00,0.58759724027
+solana,sol,Solana,https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756,,91741764876.0,293.31,2025-01-19 11:15:27.957000+00:00,0.5,2020-05-11 19:35:23.449000+00:00,
+tron,trx,TRON,https://coin-images.coingecko.com/coins/images/1094/large/tron-logo.png?1696502193,,25353232251.0,0.43,2024-12-04 00:10:40.323000+00:00,0.0,2017-11-12 00:00:00+00:00,
